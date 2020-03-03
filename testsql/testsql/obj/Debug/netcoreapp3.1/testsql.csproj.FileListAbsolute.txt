@@ -1,0 +1,17 @@
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.csprojAssemblyReference.cache
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.AssemblyInfoInputs.cache
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.AssemblyInfo.cs
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/testsql.deps.json
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/testsql.runtimeconfig.json
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/testsql.runtimeconfig.dev.json
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/testsql.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/testsql.pdb
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.csproj.CopyComplete
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.dll
+/Users/dawidmedrala/Documents/Semestr 4/Lab/Programowanie 4/testsql/testsql/obj/Debug/netcoreapp3.1/testsql.pdb
